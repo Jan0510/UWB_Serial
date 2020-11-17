@@ -1,0 +1,8 @@
+venv/
+.idea/
+*.dll
+Log/
+btw/
+__pycache__/
+dist/
+build/
